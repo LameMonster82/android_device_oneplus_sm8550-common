@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus 11 5G (CPH2449_16.0.3.500(EX01)).
+## are from OnePlus Open (CPH2551_16.0.3.500(EX01)).
 
 # ACDBs
 vendor/etc/acdbdata/ffv_models/ffv__5.0.1_0.1__3.0.0_0.0__eai_2.10_enpu3.pmd
@@ -906,7 +906,7 @@ odm/lib64/libaiboost.so
 odm/lib64/libaiboost_llm.so
 odm/lib64/libaiboost_qnn_sr.so
 odm/lib64/libaiboost_sr.so
-odm/lib64/libaiboost_te.so
+odm/lib64/libaiboost_te.so;FIX_SONAME
 odm/lib64/libaiboost_ubwc.so
 odm/lib64/libc++_shared.so
 vendor/lib64/libQnnCpu.so;MODULE_SUFFIX=_vendor
